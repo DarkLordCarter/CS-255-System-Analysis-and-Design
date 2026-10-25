@@ -1,2 +1,13 @@
-# CS-255-System-Analysis-and-Design
-Course portfolio for CS 255, including the DriverPass system analysis and design projects.
+# CS 255 System Analysis and Design
+
+## DriverPass Project
+
+The DriverPass project involved designing a system for a company that wanted to help students prepare for their driving tests. The client wanted a system that would allow students to take online courses, complete practice tests, and schedule driving lessons with instructors. The system also needed to allow employees to manage appointments, track student information, and generate reports. Another important requirement was making sure the system could receive updated information from the DMV so students would have access to current rules and testing materials.
+
+I think one thing I did particularly well was identifying the different requirements and organizing them into the system design. Breaking down the responsibilities of the students, instructors, secretary, owner, and IT officer helped me understand how each person would interact with the system. I also think I improved throughout the course when it came to creating diagrams. At first, I had some trouble organizing the different connections in Lucidchart, but I was able to make adjustments and create diagrams that were easier to follow.
+
+If I could revise one part of my work, I would probably focus on improving the UML diagrams. While I was able to show the different processes and relationships, some of the diagrams became cluttered when I started adding more connections. I would spend more time planning the layout before creating the diagrams and try to simplify some of the relationships. I think this would make the design easier for someone else to understand without needing as much explanation.
+
+When interpreting the user's needs, I focused on what the client wanted the system to accomplish and how the different users would interact with it. I used the interview information to identify the main functions and then represented those functions in the requirements and system design documents. I also considered things like security, accessibility, and making sure users could only access the information related to their roles. Understanding the user's needs is important because even if a system works correctly, it won't be very useful if it doesn't accomplish what the customer actually needs.
+
+My approach to designing software is to understand the problem before trying to create a solution. I think breaking a larger system into smaller parts makes it easier to understand how everything works together. In the future, I would continue using techniques like gathering requirements, creating use case diagrams, and developing activity, sequence, and class diagrams. I would also try to get feedback earlier in the design process so problems could be identified before moving further into development. This course helped me better understand why planning and communication are important parts of software development.
